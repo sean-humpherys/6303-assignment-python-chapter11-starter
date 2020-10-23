@@ -1,0 +1,6 @@
+*answer.py
+.vscode/*
+*answer/
+__pycache__/
+*.docx
+config.py
